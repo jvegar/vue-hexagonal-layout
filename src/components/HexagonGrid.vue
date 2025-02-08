@@ -27,6 +27,7 @@ export default {
         { name: "C#", position: { x: 0, y: 0.63 }, color: "#a6dc00" },
         { name: "Java", position: { x: -0.63, y: 0.63 }, color: "#e9a61b" },
         { name: "Html", position: { x: -0.63, y: 0 }, color: "#d905e7" },
+        { name: "X", position: { x: 0, y: -0.63 }, color: "#d905e7" },
       ],
     };
   },
